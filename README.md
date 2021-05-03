@@ -1,8 +1,8 @@
 ### Heya! 👋
 
 - 🎓 Currently studying Computer Science at ZHAW SoE
-- 💞: Angular, Type- & Javascript, Java, Spring Boot
-- 🌱 I’m currently learning: Flutter, C
+- 💞 Angular, Type- & Javascript, Java, Spring Boot
+- 🌱 Currently learning: Flutter, C, C# + Unity
 
 <!--
 **Miles07/Miles07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
