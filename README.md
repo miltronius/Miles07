@@ -1,7 +1,7 @@
 ### Heya! 👋
 
 - 🎓 Currently studying Computer Science at ZHAW SoE
-- 💞: Angular, Type- & Javascript, Java
+- 💞: Angular, Type- & Javascript, Java, Spring Boot
 - 🌱 I’m currently learning: Flutter, C
 
 <!--
