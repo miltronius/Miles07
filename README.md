@@ -1,6 +1,6 @@
 ### Heya! 👋
 
-- 🎓 Currently studying Computer Science at ZHAW SoE
+- 🎓 Currently studying Computer Science at ZHAW School of Engineering in Zurich
 - 💞 Angular, Type- & Javascript, Java, Spring Boot
 - 🌱 Currently learning: Flutter, C, C#
 
